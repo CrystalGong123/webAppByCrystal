@@ -1,0 +1,20 @@
+$font-heiti-light: Heiti SC Light, Helvetica Neue, Helvetica, STHeiTi, sans-serif;
+$font-heiti-medium: Heiti SC Medium, Heiti SC Light, Helvetica Neue, Helvetica, STHeiTi, sans-serif;
+
+$base-color:  #0dc441;
+
+@font-face {
+  font-family: yofont;
+  src: url("/webAppByCrystal/images/iconfonts/index.woff") format("woff"),
+  url("/webAppByCrystal/images/iconfonts/index.ttf") format("truetype");
+}
+@font-face {
+  font-family: yofont;
+  src: url("/webAppByCrystal/images/iconfonts/index2.woff") format("woff"),
+  url("/webAppByCrystal/images/iconfonts/index2.ttf") format("truetype");
+}
+@font-face {
+  font-family: yofont;
+  src: url("/webAppByCrystal/images/iconfonts/iconfont_index_shouban.woff") format("woff"),
+  url("/webAppByCrystal/images/iconfonts/iconfont_index_shouban.ttf") format("truetype");
+}

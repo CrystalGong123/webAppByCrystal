@@ -1,0 +1,79 @@
+<!-- <div class="module_index">
+  <header>
+    <b class="yo-ico">&#xe600;</b>
+    <b>手办</b>
+    <b></b>
+  </header>
+  <section>
+    <div class="search">
+      <div class="search_list">
+        <i class="yo-ico">&#xe604;</i>
+        <input type="text" placeholder="手办、原作、角色、厂商搜索..."/>
+        <span>取消</span>
+      </div>
+    </div>
+    <div class="index_scroll" spa-widget="scroll">
+      <div class="next">
+        <ul class="link_list">
+          <li><a href="#">
+            <img src="/webAppByCrystal/images/indexImg/4.jpg" alt="" />
+            <p>萌系</p>
+          </a></li>
+          <li><a href="#">
+            <img src="/webAppByCrystal/images/indexImg/3.jpg" alt="" />
+            <p>燃系</p>
+          </a></li>
+          <li><a href="#">
+            <img src="/webAppByCrystal/images/indexImg/2.jpg" alt="" />
+            <p>机械</p>
+          </a></li>
+          <li><a href="#">
+            <img src="/webAppByCrystal/images/indexImg/1.jpg" alt="" />
+            <p>组合</p>
+          </a></li>
+
+        </ul>
+        <ul class="link_list">
+          <li><a href="#">
+            <img src="/webAppByCrystal/images/indexImg/5.jpg" alt="" />
+            <p>萌系</p>
+          </a></li>
+          <li><a href="#">
+            <img src="/webAppByCrystal/images/indexImg/6.jpg" alt="" />
+            <p>燃系</p>
+          </a></li>
+          <li><a href="#">
+            <img src="/webAppByCrystal/images/indexImg/7.jpg" alt="" />
+            <p>机械</p>
+          </a></li>
+          <li><a href="#">
+            <img src="/webAppByCrystal/images/indexImg/8.jpg" alt="" />
+            <p>组合</p>
+          </a></li>
+
+        </ul>
+        <div class="separation_line"></div>
+        <div class="tab_change">
+          <span class="active">最新收录</span>
+          <span>最高人气</span>
+        </div>
+      </div>
+    </div>
+  </section>
+  <footer>
+    <ul>
+      <li class="active">
+        <i class="yo-ico">&#xe6c3;</i>
+        <b>手办</b>
+      </li>
+      <li>
+        <i class="yo-ico">&#xe661;</i>
+        <b>宅圈</b>
+      </li>
+      <li>
+        <i class="yo-ico">&#xe62c;</i>
+        <b>我的</b>
+      </li>
+    </ul>
+  </footer>
+</div> -->

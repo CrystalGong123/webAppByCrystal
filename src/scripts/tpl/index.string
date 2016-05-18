@@ -1,0 +1,23 @@
+<div class="module_index">
+  <div class="m-index-container"></div>
+  <footer>
+    <ul>
+      <li class="active" action-type="tap.switch" data-tag="home">
+        <i class="yo-ico">&#xe6c3;</i>
+        <b>手办</b>
+      </li>
+      <li action-type="tap.switch" data-tag="forum">
+        <i class="yo-ico">&#xe661;</i>
+        <b>宅圈</b>
+      </li>
+      <li action-type="tap.switch" data-tag="my">
+        <i class="yo-ico">&#xe62c;</i>
+        <b>我的</b>
+      </li>
+      <li action-type="tap.exit">
+        <i class="yo-ico">&#xe64f;</i>
+        <b>退出</b>
+      </li>
+    </ul>
+  </footer>
+</div>

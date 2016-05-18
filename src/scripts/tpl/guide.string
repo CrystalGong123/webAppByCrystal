@@ -1,0 +1,19 @@
+<div class="swiper-container" id="guide_swiper">
+    <div class="swiper-wrapper">
+        <div class="swiper-slide">
+          <img src="/webAppByCrystal/images/indexImg/IMG_1497.PNG" alt="" />
+        </div>
+        <div class="swiper-slide">
+          <img src="/webAppByCrystal/images/indexImg/IMG_1498.PNG" alt="" />
+        </div>
+        <div class="swiper-slide">
+          <img src="/webAppByCrystal/images/indexImg/IMG_1499.PNG" alt="" />
+        </div>
+        <div class="swiper-slide">
+          <img src="/webAppByCrystal/images/indexImg/IMG_1500.PNG" alt="" />
+        </div>
+        <div class="swiper-slide" action-type="goto.index">
+          <img src="/webAppByCrystal/images/indexImg/IMG_1501.PNG" alt="" />
+        </div>
+    </div>
+</div>
